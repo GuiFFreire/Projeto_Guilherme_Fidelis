@@ -35,4 +35,8 @@ class B{
         void MB2(){
             std::cout << "Método MB2";
         }
+
+        void MB3(){
+            std::cout << "Método MB3";
+        }
 };
