@@ -19,4 +19,8 @@ class C{
         void MC2(){
             std::cout << "Método MC2";
         }
+
+        void MC3(){
+            std::cout << "Método MC3";
+        }
 };
