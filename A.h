@@ -35,4 +35,8 @@ class A{
         void MA2(){
             std::cout << "Método MA2";
         }
+
+        void MA3(){
+            std::cout << "Alteração a classe A partir do clone";
+        }
 };
