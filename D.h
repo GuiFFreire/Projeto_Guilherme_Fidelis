@@ -18,4 +18,8 @@ class D{
         bool MD2(int D2){
             return this->D2 == D2;
         }
+
+        void MD3(){
+            std::cout << "Método MD3";
+        }
 };
