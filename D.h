@@ -19,7 +19,14 @@ class D{
             return this->D2 == D2;
         }
 
+<<<<<<< HEAD
         void MD3(){
             std::cout << "Método MD3";
         }
 };
+=======
+        void MD4(){
+            std::cout << "Método MD4";
+        }
+};
+>>>>>>> 56f76313009d4b5c435d58536dc5fbf9e845c700
