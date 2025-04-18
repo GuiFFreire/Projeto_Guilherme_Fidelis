@@ -28,6 +28,10 @@ class A{
             this->A2 = A2;
         }
 
+        int getSoma(int a,int b){
+            return a+b;
+        }
+
         void MA1(){
             std::cout << "Método MA1";
         }
